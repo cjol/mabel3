@@ -29,3 +29,7 @@
 .history
 
 # End of https://www.gitignore.io/api/php,visualstudiocode,docker,linux
+www/html/credentials.json
+www/html/google-credentials.json
+www/html/client_secret.json
+
